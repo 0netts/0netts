@@ -18,4 +18,3 @@ The stars are so beautiful.
 <a href="https://www.github.com/0netts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/0netts?logo=github&style=for-the-badge&color=444e59&labelColor=134e4a" /></a><a href="https://www.twitch.tv/ashdev2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ashdev2?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=134e4a&label=TWITCH+STATUS" /></a>
-### Badges
