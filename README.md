@@ -1,4 +1,5 @@
-![lofi gif](https://github.com/0netts/0netts/blob/master/assets/lofi.gif)
+![lofi](https://github.com/user-attachments/assets/64a18a37-8b4a-4767-a977-b20bc008d8e6)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is 💫 AshDev 💫
 =====================================================================================================================================
 
