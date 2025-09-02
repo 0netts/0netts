@@ -39,7 +39,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 
  <div align="Center">
-     ![ZLnU](https://github.com/user-attachments/assets/afb4d242-1018-41b2-be4e-2c029fa25cec)
-      ![Paw](https://github.com/user-attachments/assets/4efe4f5e-a325-484f-8631-29b863de0089)
+   ![ZLnU](https://github.com/user-attachments/assets/b3e4feda-9989-4b9f-86c3-328a0c35f262)
 
  </div>
