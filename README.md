@@ -1,10 +1,6 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is 💫 AshDev 💫
-=====================================================================================================================================
-![EdfH](https://github.com/user-attachments/assets/23442424-c408-4aaf-8124-f22d2bf7341d)
+![49Tu](https://github.com/user-attachments/assets/4408297e-1ddc-47e6-94a2-090554198c28)
 
-
-The stars are so beautiful.
 
 
 
