@@ -1,7 +1,5 @@
 
-![49Tu](https://github.com/user-attachments/assets/4408297e-1ddc-47e6-94a2-090554198c28)
-
-
+![KtXV](https://github.com/user-attachments/assets/a790944c-2962-4ded-80c8-3a14a5b04a48)
 
 
 
