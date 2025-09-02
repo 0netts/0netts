@@ -1,6 +1,6 @@
-<div align="Center">
-   <a style="color: red;">Hello 👋 Welcome to my github prfile</a>
-</div>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is 💫 AshDev 💫
+=====================================================================================================================================
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ce416b23-3910-4a4b-ace1-061006cde8d5" alt="anime gif" width="400:" />
