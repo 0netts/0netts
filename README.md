@@ -1,6 +1,6 @@
 
 
-![Kyoukai no Kanata, Mirai Kuriyama](https://github.com/user-attachments/assets/903a6da6-220c-4edc-b132-149d8cce2f5f)
+![download (2)](https://github.com/user-attachments/assets/4f4789b4-6136-4742-81b7-378d1c8b4f56)
 
 
 
