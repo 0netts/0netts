@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ce416b23-3910-4a4b-ace1-061006cde8d5" alt="anime gif" width="400:" />
 </div>
+<img width="1920" height="145" alt="a" src="https://github.com/user-attachments/assets/cacbcd93-900d-4580-8338-9c4d20d33ab6" />
 
 * ✉️  You can contact me at [ashotmesropyan16@gmail.com](mailto:ashotmesropyan16@gmail.com)
 * 🧠  I'm currently learning c# (.net) and java
