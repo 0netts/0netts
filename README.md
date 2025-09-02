@@ -1,6 +1,6 @@
 
+![Kyoukai no Kanata, Mirai Kuriyama](https://github.com/user-attachments/assets/956a4c3d-2d52-4dfd-9d8a-9da7d2d6492d)
 
-![𝓛𝓲𝓷 - Katawaredoki](https://github.com/user-attachments/assets/172a0b2b-0399-4247-a9a1-8fa2c256f54d)
 
 
 
