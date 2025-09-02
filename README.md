@@ -22,11 +22,6 @@ src="https://img.shields.io/github/followers/0netts?logo=github&style=for-the-ba
 src="https://img.shields.io/twitch/status/ashdev2?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=134e4a&label=TWITCH+STATUS" /></a>
 
 ###                                                                                                About Me
-![Paw](https://github.com/user-attachments/assets/39a4082e-2ae6-4a44-9162-2f14697537b8)
 
-<div align="center">
-<p>std::cout << "Name: Ashot \n"</p>
-<p>std::cout << "Age: 18 \n"</p>
-<p>std::cout << "Region: Armenia\n"</p>
+<img width="1200" height="1000" alt="g" src="https://github.com/user-attachments/assets/7b8254d8-55e3-44d4-8650-4b115c714d7e" />
 
-</div>
