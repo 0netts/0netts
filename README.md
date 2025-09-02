@@ -39,4 +39,3 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 
 
-![WG8Q](https://github.com/user-attachments/assets/625c66ad-1f98-43ba-984e-8241a8647c9e)
