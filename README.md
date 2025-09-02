@@ -1,7 +1,7 @@
-![lofi](https://github.com/user-attachments/assets/64a18a37-8b4a-4767-a977-b20bc008d8e6)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is 💫 AshDev 💫
 =====================================================================================================================================
+![lofi](https://github.com/user-attachments/assets/64a18a37-8b4a-4767-a977-b20bc008d8e6)
 
 The stars are so beautiful.
 
@@ -19,3 +19,8 @@ The stars are so beautiful.
 <a href="https://www.github.com/0netts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/0netts?logo=github&style=for-the-badge&color=444e59&labelColor=134e4a" /></a><a href="https://www.twitch.tv/ashdev2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ashdev2?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=134e4a&label=TWITCH+STATUS" /></a>
+
+### Music List
+
+
+
