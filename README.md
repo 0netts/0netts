@@ -28,6 +28,6 @@ src="https://img.shields.io/twitch/status/ashdev2?logo=twitchsx&style=for-the-ba
 
 
 ![Paw](https://github.com/user-attachments/assets/39a4082e-2ae6-4a44-9162-2f14697537b8)
-<p>std::cout << "Name: Ashot \n"</p>
-<p>std::cout << "Age: 18 \n"</p>
-<p>std::cout << "Region: Armenia\n"</p>
+<p align="center">std::cout << "Name: Ashot \n"</p>
+<p align="center">std::cout << "Age: 18 \n"</p>
+<p align="center">std::cout << "Region: Armenia\n"</p>
