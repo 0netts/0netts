@@ -1,4 +1,4 @@
-<p style="font-size: 14px;">Welcome to my gituhb Profile</p>
+<p style="font-size: 30px;">Welcome to my github Profile</p>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ce416b23-3910-4a4b-ace1-061006cde8d5" alt="anime gif" width="400:" />
