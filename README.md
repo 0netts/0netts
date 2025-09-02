@@ -1,6 +1,6 @@
 
 
-![200_gif (518×200)](https://github.com/user-attachments/assets/3cc1245f-215c-4f96-b489-0391e9644587)
+![𝓛𝓲𝓷 - Katawaredoki](https://github.com/user-attachments/assets/172a0b2b-0399-4247-a9a1-8fa2c256f54d)
 
 
 
