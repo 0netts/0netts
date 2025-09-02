@@ -38,3 +38,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 
+ <div align="Center">
+     ![ZLnU](https://github.com/user-attachments/assets/afb4d242-1018-41b2-be4e-2c029fa25cec)
+      ![Paw](https://github.com/user-attachments/assets/4efe4f5e-a325-484f-8631-29b863de0089)
+
+ </div>
