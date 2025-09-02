@@ -5,6 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 The stars are so beautiful.
 
+https://github.com/user-attachments/assets/edfde924-d03c-4cdf-bfd4-c5f6af43235d
+
+
+
 * ✉️  You can contact me at [ashotmesropyan16@gmail.com](mailto:ashotmesropyan16@gmail.com)
 * 🧠  I'm currently learning c# (.net) and java
 * 💬  Ask me about I want to start learning C++ one day.
