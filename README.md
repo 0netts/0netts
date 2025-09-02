@@ -5,10 +5,10 @@
 </div>
 
 <div style="maring-top: 30px;>
-  <img width="1920" height="145" alt="a" src="https://github.com/user-attachments/assets/cacbcd93-900d-4580-8338-9c4d20d33ab6" />
+<img width="1920" height="145" alt="a" src="https://github.com/user-attachments/assets/6217d24c-d555-4a0b-95a2-e55415f3eb82" />
 
 </div>
-
+zzz
 
 * ✉️  You can contact me at [ashotmesropyan16@gmail.com](mailto:ashotmesropyan16@gmail.com)
 * 🧠  I'm currently learning c# (.net) and java
