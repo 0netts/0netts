@@ -1,8 +1,7 @@
 
+![Urqw](https://github.com/user-attachments/assets/3ad5afbb-4341-4601-98a2-1e572fda7d39)
 
-![YQgT](https://github.com/user-attachments/assets/74966e89-30b8-474c-87ca-d6f0eacccae2)
 
-![9Civ](https://github.com/user-attachments/assets/c55a6009-95d2-4561-b19d-83d1e0399815)
 
 
 * ✉️  You can contact me at [ashotmesropyan16@gmail.com](mailto:ashotmesropyan16@gmail.com)
