@@ -23,5 +23,8 @@ src="https://img.shields.io/twitch/status/ashdev2?logo=twitchsx&style=for-the-ba
 
 ###                                                                                                About Me
 
-<img width="1200" height="1000" alt="g" src="https://github.com/user-attachments/assets/7b8254d8-55e3-44d4-8650-4b115c714d7e" />
+* 👨‍💻 my name is Ashot
+* 🫶🏼 I like watch Anime
+* 🧔‍♂️ 18 years old
+* 🥳 born 11.28.2006
 
