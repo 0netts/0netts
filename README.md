@@ -1,6 +1,6 @@
 
 
-![Studio Ghibli Movie GIF](https://github.com/user-attachments/assets/df2279a2-0e3b-40a9-83ea-90c468339637)
+![download](https://github.com/user-attachments/assets/1e730467-cfc8-4e46-ba8e-4d0af5e5c10d)
 
 
 
