@@ -1,6 +1,6 @@
 
 
-![Coffee Tea GIF](https://github.com/user-attachments/assets/dfe8f8a0-fde9-465c-b11c-03de9f715e69)
+![Studio Ghibli Movie GIF](https://github.com/user-attachments/assets/df2279a2-0e3b-40a9-83ea-90c468339637)
 
 
 
