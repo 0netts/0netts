@@ -1,9 +1,8 @@
 
 
-![download (3)](https://github.com/user-attachments/assets/ce416b23-3910-4a4b-ace1-061006cde8d5)
-
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ce416b23-3910-4a4b-ace1-061006cde8d5" alt="anime gif" width="400:" />
+</div>
 
 * ✉️  You can contact me at [ashotmesropyan16@gmail.com](mailto:ashotmesropyan16@gmail.com)
 * 🧠  I'm currently learning c# (.net) and java
